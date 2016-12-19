@@ -14,7 +14,7 @@ This is a dataset of retired comedy phrases, originally transcribed from a [Work
 
 This dataset is in csv format. It's Excel-friendly, Google spreadsheet-friendly, programming/scripting-friendly.
 
-### This place is for nerds, but you can find normal human explanation description elsewhere ###
+### This place is for nerds, but you can find normal human format elsewhere ###
 
 If you're here, you might be a Twitter bot developer, or a computational linguist or researcher.
 If you're none of those things, and just interested in pointing and laughing at worn-out catchphrases, you probably want to check out the same info in a different form:
