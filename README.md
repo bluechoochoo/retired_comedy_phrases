@@ -21,8 +21,10 @@ If you're none of those things, and just interested in pointing and laughing at 
 
 * The Google Spreadsheet: https://docs.google.com/spreadsheets/d/1GaLfiBnKhnuhA0QcXcFgnprIlV7uMoeza7IUnMM6Gjs/edit?usp=sharing
 
-### This is a [@casualsheets](https://twitter.com/casualsheets) project/resource. ###
+### This is a Casual Spreadsheets resource. ###
 
 Casual Spreadsheets is a subscription service (free and paid) of a bunch of spreadsheets and notebooks tracking random junk in social media and entertainment.
 
 Most data in Casual Spreadsheets is public/freely available. Grabbing a paid subscription gets you automatic updates to everything in your Google Drive. It also gives you more permissions (like export/save) to all the spreadsheets/notebooks.
+
+You can follow [@casualsheets](https://twitter.com/casualsheets) on Twitter. It's a mess!
