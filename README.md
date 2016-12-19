@@ -1,6 +1,6 @@
 # Retired Comedy Phrases
 
-What's a retired comedy phrase? A phrase or joke that isn't necessarily innately unfunny (though it could be), it's more likely a phrase that's worn out its welcome, or has been abused by forced usage, and ruined for everybody.
+What's a retired comedy phrase? It's a phrase or joke that isn't necessarily innately unfunny (though it could be), it's more likely a phrase that's worn out its welcome, or has been abused by forced usage, and ruined for everybody.
 
 Example entries:
 * I'm a hot mess!
