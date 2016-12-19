@@ -21,7 +21,7 @@ If you're none of those things, and just interested in pointing and laughing at 
 
 * The Google Spreadsheet: https://docs.google.com/spreadsheets/d/1GaLfiBnKhnuhA0QcXcFgnprIlV7uMoeza7IUnMM6Gjs/edit?usp=sharing
 
-This is a [@casualsheets](https://twitter.com/casualsheets) project/resource.
+### This is a [@casualsheets](https://twitter.com/casualsheets) project/resource. ###
 
 Casual Spreadsheets is a subscription service (free and paid) of a bunch of spreadsheets and notebooks tracking random junk in social media and entertainment.
 
