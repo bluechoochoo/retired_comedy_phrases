@@ -9,7 +9,7 @@ Example entries:
 
 Got it?
 
-This is a dataset of retired comedy phrases, originally transcribed from a [Workaholics writers room tweeted photo](https://twitter.com/John_Quaintance/status/799751549610168320), and later appended to with reader suggestions, mostly via Twitter.
+This dataset was originally transcribed from a [Workaholics writers room tweeted photo](https://twitter.com/John_Quaintance/status/799751549610168320), and later appended to with reader suggestions, mostly via Twitter.
 (It regularly gets new additions, coz that's how culture works. Gotta keep it moving.)
 
 This dataset is in csv format. It's Excel-friendly, Google spreadsheet-friendly, programming/scripting-friendly.
