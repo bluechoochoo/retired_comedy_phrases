@@ -23,7 +23,7 @@ If you're none of those things, and just interested in pointing and laughing at 
 
 ### This is a Casual Spreadsheets resource. ###
 
-Casual Spreadsheets is a subscription service (free and paid) of a bunch of spreadsheets and notebooks tracking random junk in social media and entertainment.
+Casual Spreadsheets is a subscription service (free and paid) of a bunch of spreadsheets and notebooks tracking random junk in social media and showbiz.
 
 Most data in Casual Spreadsheets is public/freely available. Grabbing a paid subscription gets you automatic updates to everything in your Google Drive. It also gives you more permissions (like export/save) to all the spreadsheets/notebooks.
 
