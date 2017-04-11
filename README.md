@@ -19,7 +19,7 @@ This dataset is in csv format. It's Excel-friendly, Google spreadsheet-friendly,
 If you're here, you might be a Twitter bot developer, or a computational linguist or researcher.
 If you're none of those things, and just interested in pointing and laughing at worn-out catchphrases, you probably want to check out the same info in a different form:
 
-* The Google Spreadsheet: https://docs.google.com/spreadsheets/d/1GaLfiBnKhnuhA0QcXcFgnprIlV7uMoeza7IUnMM6Gjs/edit?usp=sharing
+* The Casual Spreadsheets Spreadsheet: http://breakroom.casualspreadsheets.com/retired_comedy_phrases.html
 
 ### This is a Casual Spreadsheets resource. ###
 
